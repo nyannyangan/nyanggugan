@@ -9,7 +9,7 @@
 - Safari 공유 버튼 > 홈 화면에 추가.
 - 서비스워커(PWA)는 file://로 직접 열 때는 동작하지 않고, HTTPS 또는 localhost에서 동작합니다.
 
-3) 회사 Mac에서 서버로 확인(선택)
+3) Mac에서 서버로 확인(선택)
 macOS에 기본 Python이 있다면 터미널에서 이 폴더로 이동 후:
 python3 -m http.server 8080
 그 뒤 http://localhost:8080 을 브라우저에서 엽니다.
